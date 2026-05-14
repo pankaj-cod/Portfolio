@@ -19,7 +19,7 @@ export default function SkillsSection() {
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg",
-    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg",

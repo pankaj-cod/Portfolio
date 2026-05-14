@@ -92,13 +92,13 @@ export default function Portfolio() {
             <div className="z-10">
               <CometCard className="w-auto h-auto">
                 <div className="bg-white/5 border border-white/10 rounded-2xl overflow-hidden h-full">
-                  <Image
-                    src="/pic.png"
-                    alt="Profile"
-                    width={800}
-                    height={800}
-                    className="w-full h-128 object-cover opacity-70"
-                    priority
+                  <video
+                    src="/profile.mp4"
+                    autoPlay
+                    loop
+                    muted
+                    playsInline
+                    className="w-full h-128 object-cover opacity-90"
                   />
                 </div>
               </CometCard>
