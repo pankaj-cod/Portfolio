@@ -54,7 +54,7 @@ export default function Portfolio() {
           title="Pankaj Upadhyay"
           description={<LayoutTextFlip text="AI/ML Developer" words={["Building Machine Learning Models", "Deep Learning & NLP", "Data Science & Analytics", "Python, TensorFlow & PyTorch"]} duration={2500} />}
           badgeText="Portfolio"
-          badgeLabel="2024"
+          badgeLabel="2026"
           ctaButtons={[
             { text: "Download Resume", href: "/resume.pdf", primary: true, download: true },
             { text: "Contact Me", href: "#contact" }
@@ -149,7 +149,7 @@ export default function Portfolio() {
           </div>
           <div className="border-t border-white/10 pt-6">
             <p className="text-white/40 text-xs" style={{fontFamily: 'var(--font-jetbrains-mono)'}}>
-              © 2024 Pankaj Upadhyay. Built with Next.js, Framer Motion & Three.js
+              © 2026 Pankaj Upadhyay. Built with Next.js, Framer Motion & Three.js
             </p>
           </div>
         </div>
